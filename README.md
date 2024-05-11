@@ -1,6 +1,8 @@
 # VLSI-LAB-EXP-4
-                                                                                                                                                                                                  V.SAIKUMAR
-                                                                                                                                                                                                212222060211  
+V.SAIKUMAR
+21222060211
+                                                                                                                                                                                                  
+                                                                                                                                                                                                
 SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
 
 AIM: 
