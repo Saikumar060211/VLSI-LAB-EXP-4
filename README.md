@@ -230,4 +230,4 @@ endmodule
 
 OUTPUT:![Screenshorts Image 2024-04-13 at 10 00 01_ffae364b](https://github.com/Mohanraj7896/VLSI-LAB-EXP-4/assets/166592482/03bb71fa-c95c-463f-86f3-317b3999efc9)
 
-RESULT
+RESULT:Hence The simulation and synthesis of SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Vivado 2023 is done and output verified successfully.
